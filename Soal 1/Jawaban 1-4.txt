@@ -1,5 +1,6 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 NOMOR 1:
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Apakah yang dimaksud dengan Variable dan tipe data didlam bahasa Kotlin? Jelaskan jenis-jenisnya!
 JAWABAN:
 
@@ -25,22 +26,31 @@ D. Jenis-jenis tipe data:
     8. String : jenis data yang dapat dimuat 'kumpulan dari banyak karakter'
     9. Int, Long, Short,Byte : jenis data yang dapat dimuat 'Angka'
     10. Boolean : Hanya memiliki 2 nilai
-
+    
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 NOMOR 2:
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Ada berapakah percabangan dalam bahasa pemrograman kotlin? Sebutkan dan jelaskan perbedaan dari masing-masing percabangan tersebut!
 JAWABAN:
+
 A. Ada berapa percabangan:
 Pada bahasa pemrograman Kotlin, terdapat 2 jenis percabangan, yaitu if-else dan when
 
-B. Perbedaan utama if-else dan when di Kotlin:
+B. Perbedaan utama antara if-else dan when di Kotlin:
 |     Fitur     |                if-else                 |                      when                      |
 |---------------|----------------------------------------|--- --------------------------------------------|
 | Kondisi       | Berdasarkan ekspresi boolean           | Berdasarkan nilai ekspresi                     |
 | Jumlah cabang | Terbatas, biasanya dua (if dan else)   | Bisa banyak, lebih ringkas untuk banyak cabang |
 | Sifat         | Lebih umum, bisa untuk logika kompleks | Lebih spesifik untuk pemeriksaan nilai         |
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 NOMOR 3:
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Apakah yang dimaksud tentang function dalam bahasa Kotlin?
+JAWABAN:
 
-
+A. Apa itu function?
+Function dalam bahasa Kotlin adalah suatu blok kode yang dapat dipanggil kembali untuk melakukan
+suatu tugas tertentu. Function membantu memecah program besar menjadi bagian-bagian yang lebih kecil dan teratur
+sehingga memudahkan pengelolaan dan pemahaman kode.
 

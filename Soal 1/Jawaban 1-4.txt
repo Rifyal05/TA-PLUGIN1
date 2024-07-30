@@ -74,12 +74,3 @@ B. Perbedaan antara function biasa dan function generic:
 | Fleksibilitas      | Kurang fleksibel, perlu fungsi terpisah untuk tipe data berbeda.                             | Sangat fleksibel, satu fungsi untuk banyak tipe data.                   |
 | Penggunaan Kembali | Terbatas, perlu menduplikasi kode jika melakukan operasi yang serupa pada tipe data berbeda. | Tinggi, satu fungsi dapat digunakan kembali untuk berbagai tipe.        |
 | Keamanan Tipe      | Aman, tipe data diperiksa saat kompilasi.                                                    | Aman, tipe data diperiksa saat kompilasi dan runtime (saat dijalankan). |
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-NOMOR 5:
---------------------------------------------------------------------------------------------------------------------------------------------------------
-Buatlah sebuah function generic sekreatif kalian masing-masing!
-JAWABAN:
-
-        
